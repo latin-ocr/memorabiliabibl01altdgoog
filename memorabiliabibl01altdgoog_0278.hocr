@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./memorabiliabibl01altdgoog_0278.png"; bbox 0 0 2950 5092; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 209 928 2152 3660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 209 928 2152 3660">
+     <span class='ocr_line' id='line_1_1' title="bbox 209 928 2152 3660; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 209 928 2152 3660; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 213 3772 2616 4008">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 213 3764 2616 4013">
+     <span class='ocr_line' id='line_1_2' title="bbox 213 3772 2616 4008; baseline 0.008 -56"><span class='ocrx_word' id='word_1_2' title='bbox 213 3772 2073 4008; x_wconf 0' lang='lat' dir='ltr'><em>3m mm320maelfflb6.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2105 3872 2188 3965; x_wconf 85' lang='lat'><em>1.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2255 3886 2264 3911; x_wconf 51' lang='lat'>³</span> <span class='ocrx_word' id='word_1_5' title='bbox 2325 3962 2334 3971; x_wconf 83' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2411 3815 2424 3834; x_wconf 75' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2503 3843 2509 3849; x_wconf 82' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2593 3808 2616 3823; x_wconf 61' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
